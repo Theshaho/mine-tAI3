@@ -41,9 +41,12 @@ replace <YOUR_NODE_NAME> with yours
 
 start Taurus farmer 
 
-# Replace <WALLET_ADDRESS> with your wallet address starts with suc
-# Replace <PATH_TO_FARM> with the directory where you want to store the plot
-# Replace <PLOT_SIZE> with the size of the plot (e.g. 10GB, 2TiB)
+Replace <WALLET_ADDRESS> with your wallet address starts with suc
+
+Replace <PATH_TO_FARM> with the directory where you want to store the plot
+
+Replace <PLOT_SIZE> with the size of the plot (e.g. 10GB, 2TiB)
+
 ```bash
 ./subspace-farmer-ubuntu-x86_64-skylake-taurus-2024-nov-05 farm \
   --reward-address <WALLET_ADDRESS> \
@@ -51,5 +54,13 @@ start Taurus farmer
 ```
 
 once the farmer is started you can monitor your wallet address [here](https://astral.autonomys.xyz/taurus/consensus/accounts/)
+
+## Join our Telegram Channel
+
+For more bots and tutorials you can join our Telegram channel
+
+[**UbuntuForNodes**](https://t.me/ubuntufornodes)
+
+also you can follow me on [X(iamshaho)](https://x.com/iamshaho)
 
 [source](https://docs.autonomys.xyz/farming/cli/taurus/)
