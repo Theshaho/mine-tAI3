@@ -41,7 +41,7 @@ replace <YOUR_NODE_NAME> with yours
 
 start Taurus farmer 
 
-Replace <WALLET_ADDRESS> with your wallet address starts with suc
+Replace <WALLET_ADDRESS> with your wallet address starts with suc..., use [ss58.org](https://ss58.org/) copy your Dot address and then use custom prefix with `6094` 
 
 Replace <PATH_TO_FARM> with the directory where you want to store the plot
 
